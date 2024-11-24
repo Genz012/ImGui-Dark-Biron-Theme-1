@@ -1,7 +1,7 @@
 # ImGui-Dark-Biron-Theme 
 > [!NOTE]  
 > A custom ImGui theme inspired by the Dark Biron style.
-> 
+
 ## Preview
 
 |                                            TAB FUNCTION ESP                                 |                                            TAB AIM                                                  |
@@ -15,6 +15,10 @@
 |                                            TAB FUNCTION                                      |           
 | :------------------------------------------------------------------------------------------: | 
 | ![](https://raw.githubusercontent.com/thanhdo1110/ImGui-Dark-Biron-Theme/refs/heads/main/img/IMG_6797.PNG) | 
+
+## Disclaimer
+> [!WARNING]  
+> I will no longer provide additional help or support for your ImGui project. The ImGui theme I shared was customized to look better, not to improve performance. Note that all features displayed in the theme are just demos and won't work unless you implement them yourself.
 
 ## Credits:
 - **@dothanh1110 [Share]**
